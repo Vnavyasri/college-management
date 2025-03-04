@@ -13,9 +13,13 @@ OTP verification for teachers and students during registration via email
 ## 🚀 Features
 
 ✅ Create and manage multiple colleges
+
 ✅ Add and store teacher details (Name, Email, Subject)
+
 ✅ Add and store student details (Name, Email, Branch)
+
 ✅ Display lists of registered teachers and students
+
 ✅ OTP-based email verification for authentication
 
 ## 🛠 Technologies Used
